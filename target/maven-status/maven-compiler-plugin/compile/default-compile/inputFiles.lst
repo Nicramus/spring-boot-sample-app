@@ -1,2 +1,4 @@
-D:\PROJEKTY\Java\javaEE\gs-spring-boot\initial\src\main\java\hello\Application.java
-D:\PROJEKTY\Java\javaEE\gs-spring-boot\initial\src\main\java\hello\GreetingController.java
+D:\PROJEKTY\Java\Spring\initial\src\main\java\hello\controller\HostsController.java
+D:\PROJEKTY\Java\Spring\initial\src\main\java\hello\main\Application.java
+D:\PROJEKTY\Java\Spring\initial\src\main\java\hello\controller\GreetingController.java
+D:\PROJEKTY\Java\Spring\initial\src\main\java\hello\config\PersistenceJPAConfig.java

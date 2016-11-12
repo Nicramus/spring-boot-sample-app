@@ -1,2 +1,4 @@
-hello\Application.class
-hello\GreetingController.class
+hello\main\Application.class
+hello\controller\HostsController.class
+hello\config\PersistenceJPAConfig.class
+hello\controller\GreetingController.class

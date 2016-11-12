@@ -6,5 +6,9 @@
 	</head>
 	<body>
 	<h1>Wybierz hosta...</h1>
+	 <ul th:each="message : ${hosts}">	 	
+	 	<li th:text="${message}"><a href="#"></a></li>
+	 	<a th:texthref="#"></a>
+      </ul>
 	</body>
 </html>
